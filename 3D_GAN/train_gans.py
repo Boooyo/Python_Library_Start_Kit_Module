@@ -1,7 +1,7 @@
 import torch
 from torch.autograd.variable import Variable
 
-
+ 
 def ones_target(size):
     '''
     Tensor containing ones, with shape = size
